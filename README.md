@@ -97,6 +97,7 @@ The curated list of resources for research and learning about stock trading and 
 - [Adanos Sentiment API](https://adanos.org/) - Sentiment API aggregating Reddit, X, financial news, and Polymarket data for US stocks and crypto.
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
+- [FilingFirehose](https://filingfirehose.com) - Structured SEC EDGAR filings API — parsed 8-K (with body-text detection of buried cyber and officer-departure events), Schedule 13D/G with activist filer tagging, and S-3 / 424B5 ATM-offering detection. Free public tier, no auth.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Massive](https://massive.com/) - Tick-level US equities, options, indices, forex, and crypto data via REST, WebSockets, and flat files (formerly Polygon.io, rebranded 2025).
